@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Imagem de perfil provisória</title>
+  <desc id="desc">Retrato ilustrado usado como espaço reservado para foto profissional.</desc>
+  <rect width="512" height="512" fill="#f4f7f6"/>
+  <circle cx="256" cy="180" r="92" fill="#23695f"/>
+  <path d="M94 438c24-92 86-142 162-142s138 50 162 142" fill="#d95d46"/>
+  <path d="M160 438c18-48 52-76 96-76s78 28 96 76" fill="#f2b84b" opacity=".88"/>
+  <circle cx="220" cy="169" r="12" fill="#ffffff"/>
+  <circle cx="292" cy="169" r="12" fill="#ffffff"/>
+  <path d="M214 218c26 22 58 22 84 0" fill="none" stroke="#ffffff" stroke-width="16" stroke-linecap="round"/>
+</svg>
